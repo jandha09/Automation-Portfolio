@@ -28,7 +28,7 @@ An automated lead management workflow that captures potential leads, checks for 
 * Automated email notifications
 * Data updates and record management
 
-**[View Project →](#)**
+**[View Project →](https://github.com/jandha09/n8n-crm-lead-management)**
 
 ---
 
