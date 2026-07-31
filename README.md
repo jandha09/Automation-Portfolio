@@ -46,7 +46,7 @@ An automation that processes payment notification emails and records relevant pa
 * Google Sheets integration
 * Automated record updates
 
-**[View Project →](#)**
+**[View Project →](https://github.com/jandha09/n8n-payment-tracking)**
 
 ---
 
