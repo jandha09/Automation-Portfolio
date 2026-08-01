@@ -65,7 +65,7 @@ A workflow designed to streamline employee leave requests by collecting submissi
 * Spreadsheet updates
 * Automated team notifications
 
-**[View Project →]([#](https://github.com/jandha09/Employee-Leave-Management-Automation)**
+**[View Project →](https://github.com/jandha09/Employee-Leave-Management-Automation)**
 
 ---
 
